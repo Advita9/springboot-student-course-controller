@@ -25,14 +25,19 @@ Sample data (10+ records) loaded via data.sql
 ### Tech Stack
 
 Backend	--> Spring Boot
+ 
 ORM	--> Spring Data JPA (Hibernate)
+
 Database --> H2 (In-Memory)
+
 View --> JSP + JSTL
+
 Build Tool --> Maven
+
 Language --> Java 17
  
 
-### Key Functionalities
+### Main Features
 
 - Entity Relationship
 Student ↔ Course (Many-to-Many)
